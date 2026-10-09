@@ -72,9 +72,9 @@ A responsive personal website to showcase my skills and projects.
 
 ## 📫 Connect with Me
 
-- GitHub: (your GitHub link here)  
-- LinkedIn: (your LinkedIn link here)  
-- Email: (your email here)  
+- GitHub: https://github.com/MeenalSanjayPansare 
+- LinkedIn: https://www.linkedin.com/in/meenalspansare/
+- Email: meenal.pansare@gmail.com
 
 ---
 
