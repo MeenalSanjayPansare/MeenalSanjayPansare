@@ -28,7 +28,6 @@
 - Git & GitHub  
 - VS Code  
 - REST APIs  
-- Chrome DevTools  
 
 ---
 
@@ -59,14 +58,6 @@ A responsive personal website to showcase my skills and projects.
 - 🔹 Responsive layout for all devices  
 - 🔹 Project showcase section  
 
----
-
-### 🏛️ Canadian Museums Platform (Volunteer Project Concept)
-A cultural web platform idea focused on showcasing museums and heritage sites.
-
-- 🔹 UI/UX design contribution  
-- 🔹 WordPress / frontend-based structure  
-- 🔹 Focus on cultural data presentation  
 
 ---
 
